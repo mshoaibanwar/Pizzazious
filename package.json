@@ -14,6 +14,7 @@
     "formik": "^2.4.2",
     "google-login-for-reactjs": "^6.1.2",
     "google-map-react": "^2.2.1",
+    "mongoose": "^8.2.1",
     "razorpay": "^2.9.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
